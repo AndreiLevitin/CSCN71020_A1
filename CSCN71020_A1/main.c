@@ -21,6 +21,7 @@ void main() {
 	{
 	case 1:
 		add();
+		break;
 	case 2:									// calling the subtract function if option 2 has been chosen
 		subtract();
 	}
